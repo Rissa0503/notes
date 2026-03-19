@@ -1,6 +1,9 @@
 # Code Reading Note — TMMLab ICML 2023 Repository
 
 **Related Paper:** *Which is Better for Learning with Noisy Labels: The Semi-supervised Method or Modeling Label Noise?*  
+
+**Source code:** - [TMMLab ICML 2023 Repository](https://github.com/tmllab/2023_ICML_Which-is-Better-for-Learning-with-Noisy-Labels)
+
 **Repository Focus:** code-level understanding of noisy-label learning, transition-matrix estimation, and CDNL-related pseudo-label construction
 
 ## Overall Impression
